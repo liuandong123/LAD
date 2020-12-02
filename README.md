@@ -1,5 +1,5 @@
 # LAD
-//Hello LAD
+
 public static Hello(){
 
     public static void main (String [] args){
